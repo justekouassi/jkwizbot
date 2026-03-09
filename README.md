@@ -70,7 +70,6 @@ Tout pour créer, lancer, gérer et interrompre des quiz, avec différents modes
 Publie des statuts WhatsApp
 
 - [x] `status` : publie un statut. Avantage quand on peu de data
-- [ ] `statuslate` publie un statut programmé
 
 ### Module sticker
 
@@ -124,7 +123,7 @@ Permet la traduction instantanée de n’importe quel texte dans la langue de vo
 
 ## Comment l'installer sur un VPS
 
-1. git clone [https://github.com/justekouassi/jkwiz-bot.git](https://github.com/justekouassi/jkwiz-bot.git)
+1. git clone [https://github.com/justekouassi/jkwizbot.git](https://github.com/justekouassi/jkwizbot.git)
 2. cd jkwiz-bot
 3. yarn install
 4. sudo apt install -y libgbm-dev libasound2t64 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 ca-certificates fonts-liberation libnss3 lsb-release xdg-utils wget ffmpeg
